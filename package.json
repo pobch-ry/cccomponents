@@ -1,6 +1,7 @@
 {
   "name": "@pobch-ry/cccomponents",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "main": "./src/index.js",
   "private": false,
   "dependencies": {
     "react": "^16.11.0",

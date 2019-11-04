@@ -1,7 +1,8 @@
 {
   "name": "@pobch-ry/cccomponents",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
+  "main": "dist/index.js",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -35,7 +36,7 @@
   },
   "babel": {
     "presets": [
-      "@babel/preset-react"
+      "@babel/react"
     ]
   }
 }
